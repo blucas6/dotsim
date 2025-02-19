@@ -1,5 +1,5 @@
 # dotsim
-Interactive simulation
+Interactive simulation exercise
 
 ## Tags
 Simulation
